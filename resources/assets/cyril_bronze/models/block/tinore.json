@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cyril_bronze:block/blocksprite_iron-ore-2.png",
+    "particle": "cyril_bronze:block/blocksprite_iron-ore-2.png"
+  },
+  "render_type": "solid"
+}

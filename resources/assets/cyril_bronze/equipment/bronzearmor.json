@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "cyril_bronze:bronzearmor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "cyril_bronze:bronzearmor"
+      }
+    ]
+  }
+}

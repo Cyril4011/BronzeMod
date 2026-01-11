@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cyril_bronze:item/itemsprite_raw-iron-2.png"
+  }
+}

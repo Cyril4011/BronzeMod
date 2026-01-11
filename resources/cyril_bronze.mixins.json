@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "package": "net.mcreator.cyrilbronze.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "cyril_bronze.refmap.json",
+  "mixins": [
+    "RepairItemRecipeMixin",
+    "ServerPlayerMixin",
+    "PiglinAiMixin",
+    "LivingEntityMixin",
+    "PlayerMixin",
+    "ItemStackMixin",
+    "BlockItemMixin",
+    "BoneMealItemMixin",
+    "CommandsMixin",
+    "ExperienceOrbMixin"
+  ],
+  "client": [
+    "EquipmentLayerRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8.4"
+}
