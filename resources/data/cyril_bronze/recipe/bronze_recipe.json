@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:raw_copper",
+    "minecraft:raw_copper",
+    "minecraft:raw_copper",
+    "cyril_bronze:tin"
+  ],
+  "result": {
+    "id": "cyril_bronze:raw_bronze",
+    "count": 2
+  }
+}

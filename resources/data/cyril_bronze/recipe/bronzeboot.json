@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": "cyril_bronze:bronze"
+  },
+  "result": {
+    "id": "cyril_bronze:bronzearmor_boots",
+    "count": 1
+  }
+}

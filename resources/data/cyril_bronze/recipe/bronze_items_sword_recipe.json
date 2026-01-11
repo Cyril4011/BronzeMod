@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": "cyril_bronze:bronze",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "cyril_bronze:bronze_items_sword",
+    "count": 1
+  }
+}
